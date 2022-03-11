@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * The function main prints the phrase 
+ * Main prints the phrase : Programming is like building a multilingual puzzle 
+ * Return exits the function
  */
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle \n);
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
