@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * Main - prints the phrase Programming is like building a multilingual puzzle 
- * Return - exits the function
+ * main - prints the phrase "Programming is like building a multilingual puzzle 
+ * Return - should be 0 when exited
  */
 int main(void)
 {
