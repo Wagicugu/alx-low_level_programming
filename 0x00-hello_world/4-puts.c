@@ -1,12 +1,10 @@
 #include <stdio.h>
 
- /** 
- * Return - should be 0 when executed
+/**
+ * main - prints the phrase "Programming is like building a multilingual puzzle
+ * Return: 0 if exited properly, non-zero otherwise
  */
 int main(void)
- /**
-  * main - prints the phrase "Programming is like building a multilingual puzzle
-  */
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
