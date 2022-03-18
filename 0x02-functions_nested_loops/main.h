@@ -1,5 +1,1 @@
-type
-pwd
-ls
-cd/ root
-cp school/ tmp
+int _putchar(char c);
